@@ -2,9 +2,9 @@
 
 // Conjunto Caracteres: Palavras, Frases, Textos e ETC
 
-const string1 = "Matheus"
+const string1 = "Pierre"
 
-const string2 = "Daczuk"
+const string2 = "Bueno"
 
 // Concatenar
 // Juntar duas ou mais Strings
@@ -15,8 +15,8 @@ console.log(nome)
 console.log( )
 
 
-const nome2= "Matheus";
-const sobrenome = "Daczuk";
+const nome2= "Pierre";
+const sobrenome = "Bueno";
 const idade = 30;
 
 console.log("nome" = nome2);
