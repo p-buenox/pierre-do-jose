@@ -1,4 +1,4 @@
-// Tipo Number
+AV// Tipo Number
 
 // Variavel endereço e espaço
 // Armazenamento em memória
